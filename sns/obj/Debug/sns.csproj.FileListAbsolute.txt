@@ -1,0 +1,6 @@
+c:\users\sushil\documents\visual studio 2013\Projects\sns\sns\bin\sns.dll.config
+c:\users\sushil\documents\visual studio 2013\Projects\sns\sns\bin\sns.dll
+c:\users\sushil\documents\visual studio 2013\Projects\sns\sns\bin\sns.pdb
+c:\users\sushil\documents\visual studio 2013\Projects\sns\sns\obj\Debug\sns.dll
+c:\users\sushil\documents\visual studio 2013\Projects\sns\sns\obj\Debug\sns.pdb
+C:\Users\sushil\documents\visual studio 2013\Projects\sns\sns\obj\Debug\sns.csprojResolveAssemblyReference.cache
